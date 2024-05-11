@@ -1,6 +1,6 @@
 Hola👋
 
-Mi nombre es Alejandro y soy un apasionado desarrollador de software con experiencia en una variedad de tecnologías de vanguardia. Estoy emocionado de compartir mi experiencia y contribuir a proyectos innovadores en GitHub.
+😄 Mi nombre es Alejandro y soy un apasionado desarrollador de software con experiencia en una variedad de tecnologías de vanguardia. Estoy emocionado de compartir mi experiencia y contribuir a proyectos innovadores en GitHub.
 
 Durante los últimos años, he estado inmerso en el ecosistema de desarrollo web, trabajando con tecnologías como React.js, Next.js, JavaScript, Python, Django, Bootstrap y Tailwind. Mi enfoque principal ha sido el desarrollo de aplicaciones web modernas y altamente funcionales.
 
