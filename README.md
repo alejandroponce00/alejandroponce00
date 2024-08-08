@@ -1,10 +1,10 @@
 ![](https://komarev.com/ghpvc/?username=your-github-alejandroponce00)
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=ALEJANDRO+PONCE;DESARROLLADOR+WEB)](https://git.io/typing-svg)
+<h1 align = "center">[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=ALEJANDRO+PONCE;DESARROLLADOR+WEB)](https://git.io/typing-svg)</h1>
 
 <p align = "center">
 	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
 </p>
-<h1 align="center">Hola👋</h1>
+<h2 align="center">Hola👋</h2>
 
 😄 Mi nombre es Alejandro y soy un apasionado desarrollador de software con experiencia en una variedad de tecnologías de vanguardia. Estoy emocionado de compartir mi experiencia y contribuir a proyectos innovadores en GitHub.
 
