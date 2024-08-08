@@ -16,6 +16,10 @@ En el lado del servidor, he trabajado extensamente con Python y Django para cons
 Estoy entusiasmado con la posibilidad de colaborar en proyectos emocionantes en GitHub y contribuir con mis habilidades técnicas y mi pasión por el desarrollo de software. Me considero un solucionador de problemas creativo y un aprendiz rápido, siempre buscando nuevas oportunidades para mejorar mis habilidades y conocimientos.
 
 ¡Espero con interés la oportunidad de trabajar junto a otros talentosos desarrolladores en la comunidad de GitHub y llevar nuestros proyectos al siguiente nivel!
+<h3> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
+<a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=python&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
+<a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=reactjs&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'> </a>
+<a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=javascript&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a></h3>
 
  <div align=center>
  <a href="https://www.linkedin.com/in/alberto-alejandro-ponce-2b832926b/" target="_blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label=" alt="LinkedIn" /></a>
