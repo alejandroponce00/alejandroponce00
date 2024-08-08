@@ -1,5 +1,5 @@
 ![](https://komarev.com/ghpvc/?username=your-github-alejandroponce00)
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=ALEJANDRO PONCE;DESARROLLADOR WEB)](https://git.io/typing-svg)
 
 <p align = "center">
 	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
