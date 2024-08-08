@@ -1,6 +1,5 @@
 ![](https://komarev.com/ghpvc/?username=your-github-alejandroponce00)
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Cinzel&weight=800&size=32&pause=1000&color=2520FFA1&width=435&lines=Alejandro+Ponce;Desarrollador+Web)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Cinzel&weight=800&size=32&pause=1000&color=2520FFA1&center=true&vCenter=true&width=435&lines=Alejandro+Ponce;Desarrollador+Web)](https://git.io/typing-svg)
 <p align = "center">
 	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
 </p>
