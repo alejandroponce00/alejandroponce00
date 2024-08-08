@@ -3,7 +3,7 @@
 <p align = "center">
 	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
 </p>
-Hola👋
+<h1 align="center">Hola👋</h1>
 
 😄 Mi nombre es Alejandro y soy un apasionado desarrollador de software con experiencia en una variedad de tecnologías de vanguardia. Estoy emocionado de compartir mi experiencia y contribuir a proyectos innovadores en GitHub.
 
